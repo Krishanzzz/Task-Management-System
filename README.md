@@ -1,1 +1,2 @@
 # Task-Management-System
+The Task Management System allows team leaders (TLs) to assign tasks to team members and track their progress in real-time. TLs can set deadlines, monitor task status, and ensure timely completion. Team members can update tasks as "Pending," "In Progress," or "Completed." Notifications keep the team informed about new assignments and approaching deadlines. A centralized dashboard provides an overview of task distribution and team performance.
